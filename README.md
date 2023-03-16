@@ -6,7 +6,7 @@ I am Isha, graduated from a website design and development post-graduate certifi
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanegi18@gmail.com)](mailto:ishanegi18@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishanegi18/)](https://www.linkedin.com/in/ishanegi18/)
 
-[![Yash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ishanegi18&theme=xcode)](https://github.com/ishanegi18)
+(https://github.com/ishanegi18)
 
 ## ⚡ Technologies
 
