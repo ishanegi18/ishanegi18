@@ -1,12 +1,26 @@
 # Hi, I am Isha Negi! Great to see you here! <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px">
 
 
-I am Isha, graduated from a website design and development post-graduate certificate program at Conestoga College with a bachelor’s in computer science. I am a tech enthusiast & motivated learner. I am always open to collaborating on projects. Find out more about me & feel free to connect with me here.
+I’m a detail-oriented Frontend Developer with over 4 years of experience building responsive, user-focused web applications using modern technologies like JavaScript (ES6+), TypeScript, Vue.js,
+React and Angular. I’ve worked across diverse industries on SaaS platforms, e-commerce stores,
+and CMS-based websites, with hands-on experience in WordPress, Shopify, AEM, and Kentico.
+Skilled in translating designs into clean, performant code, I collaborate effectively in agile
+environments and have a strong command of tools like Figma, Adobe XD, Jira, Git, and Firebase.
+I’m passionate about crafting intuitive interfaces, optimizing performance, and continuously
+learning to deliver meaningful digital experiences
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanegi18@gmail.com)](mailto:ishanegi18@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishanegi18/)](https://www.linkedin.com/in/ishanegi18/)
 
-(https://github.com/ishanegi18)
+
+Portfolio: www.ishanegi.com
+
+---
+
+## 📚 Currently Learning
+I’m currently learning **Google Analytics** and working to expand my knowledge in web performance tracking and data-driven insights.
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
+
 
 ## ⚡ Technologies
 
@@ -32,7 +46,6 @@ I am Isha, graduated from a website design and development post-graduate certifi
 
 ### Databases
 
-![Oracle](https://img.shields.io/badge/oracle-%23563D7C.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mysql](https://img.shields.io/badge/mysql-6DA55F?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -41,8 +54,8 @@ I am Isha, graduated from a website design and development post-graduate certifi
 
 ![Shopify](https://img.shields.io/badge/shopify-%23563D7C.svg?style=for-the-badge&logo=shopify&logoColor=white)
 ![Wordpress](https://img.shields.io/badge/wordpress-%234ea94b.svg?style=for-the-badge&logo=wordpress&logoColor=white)
-![CraftCMS](https://img.shields.io/badge/craftcms-6DA55F?style=for-the-badge&logo=craftmcms&logoColor=white)
-
+![AEM](https://img.shields.io/badge/adobe%20experience%20manager-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Kentico](https://img.shields.io/badge/kentico-%23FF6600.svg?style=for-the-badge&logo=kentico&logoColor=white)
 
 
 
@@ -51,18 +64,13 @@ I am Isha, graduated from a website design and development post-graduate certifi
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&style=flat-square&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
-![Androidstudio](https://img.shields.io/badge/android%20-%23430098.svg?style=flat-square&logo=android&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 
-## 📈 Stats
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=ishanegi18&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zhoha28&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</tr>
-</table>
+### Designing Tools:
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+
+
+
