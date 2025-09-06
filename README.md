@@ -18,7 +18,7 @@ Portfolio: www.ishanegi.com
 ---
 
 ## 📚 Currently Learning
-I’m currently learning **Google Analytics** and working to expand my knowledge in web performance tracking and data-driven insights.
+I’m currently learning **Data Analytics Course** and working to expand my knowledge in web performance tracking and data-driven insights.
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 
 
